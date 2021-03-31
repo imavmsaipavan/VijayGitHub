@@ -5,7 +5,8 @@ public class FirstClass {
             
 	}
 	public void funA() {
-		System.out.println("this is first class"); 
+		System.out.println("this is first class");
+		System.out.println("this is first class");
 	}
 
 }
