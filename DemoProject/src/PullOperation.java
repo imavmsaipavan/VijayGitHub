@@ -6,8 +6,8 @@ public class PullOperation {
  
 	}
 	public void funA() {
-		int a=100;
-		int b=200;
+		int a=10230;
+		int b=20320;
         int c=a+b;
 	}
 
